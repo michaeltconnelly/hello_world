@@ -1,1 +1,2 @@
 We're all getting better at git as we go
+But sometimes learning is hard
